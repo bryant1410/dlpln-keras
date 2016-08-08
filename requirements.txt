@@ -3,3 +3,5 @@ matplotlib==1.5.1
 notebook==4.2.2
 pydot-ng==1.0.0
 scikit-learn==0.17.1
+
+-e git://github.com/damianavila/RISE.git#egg=rise
